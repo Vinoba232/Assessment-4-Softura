@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Agila\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Agila\\.nuget\\packages"
+    ]
+  }
+}
